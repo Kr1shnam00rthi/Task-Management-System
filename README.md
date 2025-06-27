@@ -2,8 +2,8 @@
 
 ### Description
 
-+ Devised the backend for a Personal Task Manager to facilitate easier and more efficient task management.
-+ Managed requests by setting up a scalable Node.js backend integrated with a MySQL database to handle CRUD operations via RESTful APIs.
++ Developed the backend for a scalable to-do app using Node.js and MySQL, performing CRUD operations to efficiently
+manage tasks via RESTful APIs.
 + Implemented JWT-based authentication to securely manage user sessions.
 
 ### Routes
