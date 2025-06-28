@@ -2,8 +2,7 @@
 
 ### Description
 
-+ Developed the backend for a scalable to-do app using Node.js and MySQL, performing CRUD operations to efficiently
-manage tasks via RESTful APIs.
++ Created the backend for a to-do app using Node.js and MySQL, performing CRUD operations to efficiently manage tasks via RESTful APIs.
 + Implemented JWT-based authentication to securely manage user sessions.
 
 ### Routes
